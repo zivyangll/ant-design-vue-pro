@@ -3,11 +3,11 @@
 相关文档
 ---
 
-Git Bash 文档：https://gitforwindows.org/
-Node 中文网：http://nodejs.cn/ 建议安装 10 以上版本
-cnpm 安装：https://www.npmjs.com/package/cnpm
-Vue 官网：https://cn.vuejs.org/
-Ant Design of Vue 官网：https://preview.pro.antdv.com/docs/vue/introduce-cn/
+- Git Bash 文档：https://gitforwindows.org/
+- Node 中文网：http://nodejs.cn/ 建议安装 10 以上版本
+- cnpm 安装：https://www.npmjs.com/package/cnpm
+- Vue 官网：https://cn.vuejs.org/
+- Ant Design of Vue 官网：https://preview.pro.antdv.com/docs/vue/introduce-cn/
 
 项目下载和运行
 ----
